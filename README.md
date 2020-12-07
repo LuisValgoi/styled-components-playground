@@ -51,7 +51,7 @@ If you want to style a component using the styles of another one, check this:
 <HeaderSmall>Regular Text</HeaderSmall>;
 
 // styles/Header.js
-export const Header = styled(Header)`
+export const Header = styled.h1`
   background-color: black;
 `;
 
