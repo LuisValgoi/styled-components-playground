@@ -1,6 +1,6 @@
 # Objective
 
-This project was created to better understand the usage of `styled-components` lib and its advantages.
+This project was created to better understand the usage of `styled-components` lib and its advantages. 
 
 # Overview
 
